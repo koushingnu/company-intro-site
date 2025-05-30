@@ -14,7 +14,7 @@ const CompanyInfoSection = () => {
         }}
       >
         <h2 style={{ fontSize: '2.4rem', marginBottom: '1rem', textAlign: 'center' }}>
-          コーシン工房にできること
+          コーシン工房にできること・・・・
         </h2>
   
         <p style={{ fontSize: '1.2rem', marginBottom: '2rem', textAlign: 'center' }}>
