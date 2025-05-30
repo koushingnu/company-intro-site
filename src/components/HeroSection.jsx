@@ -22,7 +22,7 @@ const HeroSection = () => {
     >
       {/* Reggae One */}
       <div style={{ ...baseStyle, fontFamily: "'Reggae One', sans-serif" }}>
-        <h1 style={{ fontSize: '2.8rem', marginBottom: '1rem' }}>Reggae One</h1>
+        <h1 style={{ fontSize: '2.8rem', marginBottom: '1rem' }}>Oppaoi Tanaka</h1>
         <p style={{ fontSize: '1.2rem' }}>
           和を描き、静けさに力を込める。<br />
           力強い筆文字でインパクトを与えるスタイル。
